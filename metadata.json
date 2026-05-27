@@ -1,0 +1,6 @@
+{
+  "name": "Rostec",
+  "description": "Rostec strategic defense systems portal offering pre-configured tactical formation packages, deep surveillance, ISR platform telemetry, cyber cells and rapid-reaction deployments across seven theatres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
